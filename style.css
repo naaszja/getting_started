@@ -3,3 +3,7 @@ body {
   background-color: hotpink;
   font-family: monospace;
 }
+
+p {
+  font-size: 1.5em;
+}
